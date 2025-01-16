@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-I'm a software developer, I'm from Peru. Passionate about backend development, with 3 years of experience, primarily in startups and companies in the financial sector. I enjoy working on personal projects focused on improving my productivity. Currently, I am learning frontend development to expand my skill set.
+I am a software developer from Peru, passionate about backend development, with three years of experience primarily in startups and financial sector companies. I enjoy working on personal projects aimed at enhancing productivity. Currently, I am expanding my skill set by learning frontend development.
 
-I am curious, analytical, and resilient: if I don't understand something, I won’t stop until I find the solution.
+I am a curious, analytical, and resilient professional. When faced with challenges or uncertainty, I persist until I find a solution.
+
+## 🌐 Social Media
+[![twitter](https://img.shields.io/badge/Twitter-007acc?logo=x&logoColor=white)](https://x.com/mauroquinteroos)
+[![linkedin](https://img.shields.io/badge/Linkedin-007acc?logo=icloud&logoColor=white)](https://linkedin.com/in/mauroquinteros)
+[![twitter](https://img.shields.io/badge/Website-007acc?logo=icloud&logoColor=white)](https://mauroquinteros.vercel.app/) 
 
 ## 🛠️ Tech Stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
@@ -30,8 +35,8 @@ I am curious, analytical, and resilient: if I don't understand something, I won�
 
 ## 🚀 My GitHub Stats
 <a href="https://github.com/mauroquinteros/mauroquinteros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauroquinteros&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mauro's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauroquinteros&theme=transparent&show_icons=true&count_private=true" alt="Mauro's GitHub Stats" />
 </a>
 <a href="https://github.com/mauroquinteros/mauroquinteros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroquinteros&layout=compact&theme=dark" alt="Mauro's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroquinteros&layout=compact&theme=transparent" alt="Mauro's GitHub Stats" />
 </a>
