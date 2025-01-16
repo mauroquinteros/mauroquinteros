@@ -7,7 +7,7 @@ I am a curious, analytical, and resilient professional. When faced with challeng
 ## 🌐 Social Media
 [![twitter](https://img.shields.io/badge/Twitter-007acc?logo=x&logoColor=white)](https://x.com/mauroquinteroos)
 [![linkedin](https://img.shields.io/badge/Linkedin-007acc?logo=icloud&logoColor=white)](https://linkedin.com/in/mauroquinteros)
-[![twitter](https://img.shields.io/badge/Website-007acc?logo=icloud&logoColor=white)](https://mauroquinteros.vercel.app/) 
+[![twitter](https://img.shields.io/badge/Website-007acc?logo=icloud&logoColor=white)](https://mauroquinteros.dev/) 
 
 ## 🛠️ Tech Stack
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=007acc)
