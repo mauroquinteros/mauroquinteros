@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software developer from Peru, passionate about backend development, with three years of experience primarily in startups and financial sector companies. I enjoy working on personal projects aimed at enhancing productivity. Currently, I am expanding my skill set by learning frontend development.
+I am a software developer from Peru, passionate about backend development, with four years of experience primarily in startups and financial sector companies. I enjoy working on personal projects aimed at enhancing productivity. Currently, I am expanding my skill set by learning frontend development.
 
 I am a curious, analytical, and resilient professional. When faced with challenges or uncertainty, I persist until I find a solution.
 
