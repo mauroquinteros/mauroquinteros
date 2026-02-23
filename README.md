@@ -32,11 +32,3 @@ I am a curious, analytical, and resilient professional. When faced with challeng
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=007acc)
-
-## 🚀 My GitHub Stats
-<a href="https://github.com/mauroquinteros/mauroquinteros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauroquinteros&theme=transparent&show_icons=true&count_private=true" alt="Mauro's GitHub Stats" />
-</a>
-<a href="https://github.com/mauroquinteros/mauroquinteros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroquinteros&layout=compact&theme=transparent" alt="Mauro's GitHub Stats" />
-</a>
